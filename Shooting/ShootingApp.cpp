@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "ShootingApp.h"
 
+// hoge
 
 ShootingApp::ShootingApp()
 {
